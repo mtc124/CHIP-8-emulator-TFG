@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="CHIP-8-emulador/CHIP-8-emulador.vcxproj" Id="3c614fe7-d78a-4712-9eba-e30001604b04" />
+</Solution>

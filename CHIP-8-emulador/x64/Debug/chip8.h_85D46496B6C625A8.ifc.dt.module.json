@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\chip8.obj",
+            "outputs": [
+                "x64\\Debug\\chip8.h_85D46496B6C625A8.ifc.dt.module.json",
+                "x64\\Debug\\chip8.h_85D46496B6C625A8.ifc.dt.d.json",
+                "x64\\Debug\\chip8.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "C:\\Users\\torch\\OneDrive\\Desktop\\EL_CHIP_8\\CHIP-8-emulator\\CHIP-8-emulador\\CHIP-8-emulador\\chip8.h",
+                    "source-path": "c:\\users\\torch\\onedrive\\desktop\\el_chip_8\\chip-8-emulator\\chip-8-emulador\\chip-8-emulador\\chip8.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}
