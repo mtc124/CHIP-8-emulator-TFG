@@ -10,7 +10,7 @@ void cpu_step(struct chip8* chip8_pnt){
 
 void decode_execute(struct chip8* chip8_pnt){
 	uint16_t opc = chip8_pnt->opcode;
-	switch (chip8_pnt->opcode * 0xF000) {
+	switch ((chip8_pnt->opcode * 0xF000) >> 12) {
 
 		case 0x0:
 			if (opc == 0x00E0){ 

@@ -32,5 +32,8 @@
     <ClInclude Include="instructions.h">
       <Filter>Archivos de origen</Filter>
     </ClInclude>
+    <ClInclude Include="cpu.h">
+      <Filter>Archivos de origen</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

@@ -12,7 +12,7 @@ struct chip8 {
 	uint16_t stack[11];
 	uint8_t delay_timer;
 	uint8_t sound_timer;
-	uint16_t display[64*32]
+	uint16_t display[64*32];
 	
 	
 	//mirar mas adelante si falta algo y completar
